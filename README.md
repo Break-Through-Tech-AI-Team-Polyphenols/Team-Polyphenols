@@ -4,7 +4,7 @@
 - **Savannah Gong** - [GitHub Profile](https://github.com/savannahgong)
 - **Sally Hong** - [GitHub Profile](https://github.com/hongsally)
 - **Amrit Randev** - [GitHub Profile](#) (Link to be added)
-- **Zoya LASTNAME** - [GitHub Profile](#) (Link to be added)
+- **Zoya Shamak** - [GitHub Profile](#) (Link to be added)
 
 ---
 
