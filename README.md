@@ -16,7 +16,7 @@
 
 ---
 
-## ⚙Setup & Execution  
+## Setup & Execution  
 ### Installation  
 ```bash
 git clone https://github.com/your-repo/polyphenols.git
