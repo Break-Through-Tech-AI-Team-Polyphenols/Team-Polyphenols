@@ -110,5 +110,5 @@ Reduce Diagnostic Disparities, Enable Global Access, Promote Transparency, which
 ---
 
 ## Next Steps & Future Improvements    
-- [ ] Improve our accuracy throug hyperparameters 
+- [ ] Improve our accuracy through hyperparameters 
 - [ ] Utilize data augmentation to futrther train and optimize our model
